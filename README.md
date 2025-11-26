@@ -8,16 +8,16 @@
 ## **Navigation**
 
 **Projekt HofWissbad**
-> - [Einleitung](docs/einleitung.pdf)
+> - [Einleitung](docs/projekt-einleitung/einleitung.pdf)
 
 **Projektorganisation**
-> - [Ist/Soll-Tabelle](docs/istsolltable.md)
-> - [Organigramm](docs/organigramm.drawio.svg)
-> - [Rollenaufteilung](docs/rollenaufteilung.drawio.svg)
+> - [Ist/Soll-Tabelle](docs/projekt-organisation/istsolltable.md)
+> - [Organigramm](docs/projekt-organisation/organigramm.drawio.svg)
+> - [Rollenaufteilung](docs/projekt-organisation/rollenaufteilung.drawio.svg)
 
 **Stakeholderanalyse**
-> - [Matrix](docs/StakeholderMatrix.md)
-> - [Sonnenmodel](docs/sonnenmodel.drawio.svg)
+> - [Matrix](docs/stakeholderanalyse/StakeholderMatrix.md)
+> - [Sonnenmodel](docs/stakeholderanalyse/sonnenmodel.drawio.svg)
 
 **Arbeitsdokumentation**
-> - [Arbeitstabelle](docs/Arbeitsdokumentation.md)
+> - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
