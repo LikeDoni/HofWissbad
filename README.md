@@ -7,6 +7,11 @@
 > - Organigramm
 > - Rollenbeschreibung
 
-**Stakeholder Analyse** 
+**Stakeholderanalyse** 
 >  - Stakeholder Matrix
 >  - Stakeholder Sonnenmodel
+
+**Arbeitsdokumnetation**
+> - Armend
+> - Donat
+> - Nicola
