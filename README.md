@@ -9,8 +9,8 @@
 > - Rollenbeschreibung
 
 **Stakeholderanalyse** 
->  - Stakeholder Matrix
->  - Stakeholder Sonnenmodel
+>  - [Stakeholder Matrix](docs/Stakeholdertabelle.md)
+>  - [Stakeholder Sonnenmodel](docs/sonnenmodel.drawio.svg)
 
 **Arbeitsdokumnetation**
 > - Armend
