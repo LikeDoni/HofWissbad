@@ -18,6 +18,4 @@
 > - Nicola
 cknsdvoö
 
-## Organigramm
 
-![Systemdiagramm](./docs/organigramm.drawio.svg)
