@@ -6,7 +6,7 @@
 ## **Navigation**
 
 **Projekt HofWissbad**
-> - [Eineitung]()
+> - [Eineitung](einleitung.pdf)
 
 **Projektorganisation**
 > - [Ist/Soll-Tabelle](docs/istsolltable.md)
@@ -18,4 +18,4 @@
 > - [Sonnenmodel](docs/sonnenmodel.drawio.svg)
 
 **Arbeitsdokumentation**
-> - [Arbeitstabelle](docs/)
+> - [Arbeitstabelle](docs/Arbeitsdokumentation.md)
