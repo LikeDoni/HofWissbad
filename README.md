@@ -1,5 +1,5 @@
 # Projektdokumentaion HofWissbad
-> **Authoren**
+> **Authoren:**
 >> Armend, Nicola, Donat
 
 **Projektbeschreibung**
