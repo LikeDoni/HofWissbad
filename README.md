@@ -8,3 +8,7 @@
 >  - Stakeholder Interessen
 >  - Stakeholder Einstellung, Einfluss, Konfliktpotential
 > > text
+
+## Organigramm
+
+![Systemdiagramm](./docs/organigramm.drawio.svg)
