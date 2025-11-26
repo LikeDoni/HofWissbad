@@ -1,3 +1,4 @@
+# Stakeholderanalyse Tabelle
 |      |                                               |                                                                                      |             |          |                   |                                         |                             |
 |------|-----------------------------------------------|--------------------------------------------------------------------------------------|-------------|----------|-------------------|-----------------------------------------|-----------------------------|
 |      |                                               |                                                                                      |             |          |                   |                                         |                             |
@@ -11,3 +12,21 @@
 | S7   | Lieferanten                                   | Stabile Geschäftsbeziehungen, pünktliche Bezahlung und Einhaltung der Verträge.      | 0           | -        | -                 | Zeitmanagement                          | Einkaufs innendienst        |
 | S8   | Gäste                                         | Übersichtliche Infos, personalisierte Angebote, zuverlässige Technik                 | 0           | +        | -                 | Gutes UI                                | Help-Desk                   |
 |      |                                               |                                                                                      |             |          |                   | Stabile infrastr.                       |                             |
+
+
+Legende :
+
+ hoher Einfluss
+ 
+ mittlerer Einfluss
+ 
+ geringer Einfluss
+
+
+-----------------------------------|
+ hoher Einstellung      |   -> +   |
+------------------------|----------|                       
+ mittlerer Einstellung  |   -> 0   |
+------------------------|----------|               
+ geringer Einstellung   |  -> -    |
+-----------------------------------|
