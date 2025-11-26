@@ -1,4 +1,4 @@
-# Projektdokumentaion HofWissbad
+# Projektdokumentaion Hof Wissbad
 > **Authoren:**
 >> Armend, Nicola, Donat
 
