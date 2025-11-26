@@ -2,19 +2,13 @@
 
 **Projektbeschreibung**
 > Hof Wissbad ist ein Gesundheits- und Ferienhotel, das ihre Gästeinformationen, innere Abläufe und digitale Dienstleistungen modernisieren möchte. In diesem Rahmen soll ein Hotelinformationssystem entwickelt und eingeführt werden. Damit sollen den Gästen aktuelle Informationen, Angebote und personalisierte Inhalte über verschiedene Kanäle zur Verfügung gestellt werden.
-## **Projekt Navigation**
-**Projektorganisation**
-> - [Ist/Soll Tabelle](docs/istsolltable.md)
-> - [Organigramm](docs/organigramm.drawio.svg)
-> - Rollenbeschreibung
+## **Was wirst du in dieser Dokumentation finden**
+**StakeholderAnalyse** [Stakeholder Analyse](#stakeholder-analyse)
+>  - Stakeholder Definition
+>  - Stakeholder Interessen
+>  - Stakeholder Einstellung, Einfluss, Konfliktpotential
+> > text
 
-**Stakeholderanalyse** 
->  - [Stakeholder Matrix](docs/StakeholderMatrix.md)
->  - [Stakeholder Sonnenmodel](docs/sonnenmodel.drawio.svg)
+## Organigramm
 
-**Arbeitsdokumnetation**
-> - Armend
-> - Donat
-> - Nicola
-
-
+![Systemdiagramm](./docs/organigramm.drawio.svg)
