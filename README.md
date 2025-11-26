@@ -16,6 +16,5 @@
 > - Armend
 > - Donat
 > - Nicola
-cknsdvoö
 
 
