@@ -19,6 +19,7 @@
 
 **Stakeholderanalyse**
 > - [Matrix](docs/stakeholderanalyse/StakeholderMatrix.md)
+> - [Begründung](docs/stakeholderanalyse/Stakeholder_begründung.md)
 > - [Sonnenmodel](docs/stakeholderanalyse/sonnenmodel.drawio.svg)
 
 **Arbeitsdokumentation**
