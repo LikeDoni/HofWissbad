@@ -6,7 +6,7 @@
 ## **Navigation**
 
 **Projekt HofWissbad**
-> - [Eineitung](einleitung.pdf)
+> - [Einleitung](docs/einleitung.pdf)
 
 **Projektorganisation**
 > - [Ist/Soll-Tabelle](docs/istsolltable.md)
