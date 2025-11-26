@@ -6,13 +6,13 @@
 ## **Navigation**
 
 **Projektorganisation**
-> - [Ist/Soll-Tabelle]()
-> - [Organigramm]()
+> - [Ist/Soll-Tabelle](docs/istsolltable.md)
+> - [Organigramm](docs/organigramm.drawio.svg)
 > - [Rollenaufteilung]()
 
 **Stakeholderanalyse**
-> - Matrix
-> - Sonnenmodel
+> - [Matrix](docs/StakeholderMatrix.md)
+> - [Sonnenmodel](docs/sonnenmodel.drawio.svg)
 
 **Arbeitsdokumentation**
 > - Armend
