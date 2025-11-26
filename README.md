@@ -9,7 +9,7 @@
 > - Rollenbeschreibung
 
 **Stakeholderanalyse** 
->  - [Stakeholder Matrix](docs/Stakeholdertabelle.md)
+>  - [Stakeholder Matrix](docs/StakeholderMatrix.md)
 >  - [Stakeholder Sonnenmodel](docs/sonnenmodel.drawio.svg)
 
 **Arbeitsdokumnetation**
