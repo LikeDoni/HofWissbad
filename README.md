@@ -7,7 +7,6 @@
 > - Organigramm
 > - Rollenbeschreibung
 
-**Stakeholder** 
->  - Stakeholder Analyse
+**Stakeholder Analyse** 
+>  - Stakeholder Matrix
 >  - Stakeholder Sonnenmodel
-> > text
