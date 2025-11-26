@@ -22,9 +22,4 @@
 
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
-
-
-## 🚀 Fortschritt (GitHub Milestones)
-| Milestone | Link |
-|---|---|
-| KW 47 – Stakeholder Analyse | 🔗 [Öffnen](github-milestone-link-hier-einfügen) |
+> - [Milestone KW47](github-milestone-link-hier-einfügen) 
