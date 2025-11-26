@@ -2,10 +2,10 @@
 |------------------|---|-----------|-----------|-----------|
 |                  |   |           |           |           |
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
-| Einleitung       |   |           |           |           |
-| Ist/Soll-Tabelle |   |           |           |           |
-| Organigramm      |   |           |           |           |
-| Rollenaufteilung |   |           |           |           |
-| Matrix           |   |           |           |           |
-| Sonnenmodel      |   |           |           |           |
-| Github/dok.      |   |           |           |           |
+| Einleitung       |   |     x     |     x     |           |
+| Ist/Soll-Tabelle |   |     x     |     x     |     x     |
+| Organigramm      |   |           |           |     x     |
+| Rollenaufteilung |   |     x     |           |     x     |
+| Matrix           |   |     x     |           |           |
+| Sonnenmodel      |   |           |     x     |           |
+| Github/dok.      |   |           |     x     |     x     |
