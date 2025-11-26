@@ -11,9 +11,10 @@
 > - [Einleitung](docs/projekt-einleitung/einleitung.pdf)
 
 **Projektorganisation**
+> - [Rollenaufteilung](docs/projekt-organisation/rollenaufteilung.drawio.svg)
 > - [Ist/Soll-Tabelle](docs/projekt-organisation/istsolltable.md)
 > - [Organigramm](docs/projekt-organisation/organigramm.drawio.svg)
-> - [Rollenaufteilung](docs/projekt-organisation/rollenaufteilung.drawio.svg)
+
 
 **Stakeholderanalyse**
 > - [Matrix](docs/stakeholderanalyse/StakeholderMatrix.md)
