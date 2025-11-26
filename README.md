@@ -18,6 +18,4 @@
 > - [Sonnenmodel](docs/sonnenmodel.drawio.svg)
 
 **Arbeitsdokumentation**
-> - Armend
-> - Nicola
-> - Donat
+> - [Arbeitstabelle](docs/)
