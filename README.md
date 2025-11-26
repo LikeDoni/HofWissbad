@@ -22,4 +22,4 @@
 
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
-> - [Milestone KW47](github-milestone-link-hier-einfügen) 
+> - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) 
