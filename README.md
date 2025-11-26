@@ -7,7 +7,7 @@
 
 ## **Navigation**
 
-**Projekt HofWissbad**
+**Projekt Hof Wissbad**
 > - [Einleitung](docs/projekt-einleitung/einleitung.pdf)
 
 **Projektorganisation**
