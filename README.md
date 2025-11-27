@@ -24,3 +24,4 @@
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
 > - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) 
+> - [Milestone KW48](https://github.com/LikeDoni/HofWissbad/milestone/2)
