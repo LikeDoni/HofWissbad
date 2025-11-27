@@ -7,27 +7,27 @@
 
 ## **Navigation**
 
-**Projekt Hof Wissbad**(-27.11.2025)
+**Projekt Hof Wissbad**(KW47)
 > - [Einleitung](docs/projekt-einleitung/einleitung.md)
 > - [Ist/Soll-Tabelle](docs/projekt-einleitung/istsolltable.md)
 
-**Projektorganisation**
+**Projektorganisation**(KW47)
 > - [Rollenaufteilung](docs/projekt-organisation/rollenaufteilung.drawio.svg)
 > - [Organigramm](docs/projekt-organisation/organigramm.drawio.svg)
 
 
-**Stakeholderanalyse**(-27.11.2025)
+**Stakeholderanalyse**(KW47)
 > - [Matrix](docs/stakeholderanalyse/StakeholderMatrix.md)
 > - [Begründung](docs/stakeholderanalyse/Stakeholder_begründung.md)
 > - [Sonnenmodel](docs/stakeholderanalyse/sonnenmodel.drawio.svg)
 
-**Projektanalyse**(-04.12.2025)
+**Projektanalyse**(KW48)
 > - [SWOT](docs/projektanalyse/SWOT.md)
 
-**Risikoanalyse**(-04.12.2025)
+**Risikoanalyse**(KW48)
 > - [Auswertung](docs/auswertung_risikoanalyse/risikoanalyse.md)
 
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
-> - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) (-27.11.2025)
-> - [Milestone KW48](https://github.com/LikeDoni/HofWissbad/milestone/2) (-04.12.2025)
+> - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) 
+> - [Milestone KW48](https://github.com/LikeDoni/HofWissbad/milestone/2) 
