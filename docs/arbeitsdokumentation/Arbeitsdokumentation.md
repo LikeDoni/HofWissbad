@@ -2,7 +2,7 @@
 |------------------|---|-----------|-----------|-----------|
 |                  |   |           |           |           |
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
-| Einleitung       |   |   - [ ]   |     x     |     x     |
+| Einleitung       |   |     x     |     x     |     x     |
 | Ist/Soll-Tabelle |   |     x     |     x     |     x     |
 | Organigramm      |   |           |           |     x     |
 | Rollenaufteilung |   |     x     |     x     |     x     |
@@ -14,7 +14,7 @@
 |------------------|---|-----------|-----------|-----------|
 |                  |   |           |           |           |
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
-| SWOT Analyse     |   |           |           |           |
+| SWOT Analyse     |   |           |     x     |           |
 | SMART Analyse    |   |           |           |           |
 | Risiko Analyse   |   |           |           |           |
 | Projektauftrag   |   |           |           |           |
