@@ -2,7 +2,7 @@
 |------------------|---|-----------|-----------|-----------|
 |                  |   |           |           |           |
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
-| Einleitung       |   |  - [ ]    |     x     |     x     |
+| Einleitung       |   |    [ ]    |     x     |     x     |
 | Ist/Soll-Tabelle |   |     x     |     x     |     x     |
 | Organigramm      |   |           |           |     x     |
 | Rollenaufteilung |   |     x     |     x     |     x     |
