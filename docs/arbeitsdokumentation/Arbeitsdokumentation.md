@@ -10,7 +10,7 @@
 | Sonnenmodel      |   |           |     x     |           |
 | Github/dok.      |   |           |     x     |     x     |
 ---
-| KW               |   | Armend    | Nicola    | Donat     |
+| KW 48            |   | Armend    | Nicola    | Donat     |
 |------------------|---|-----------|-----------|-----------|
 |                  |   |           |           |           |
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
