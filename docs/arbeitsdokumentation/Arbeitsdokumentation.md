@@ -9,3 +9,15 @@
 | Matrix           |   |     x     |           |           |
 | Sonnenmodel      |   |           |     x     |           |
 | Github/dok.      |   |           |     x     |     x     |
+---
+| KW               |   | Armend    | Nicola    | Donat     |
+|------------------|---|-----------|-----------|-----------|
+|                  |   |           |           |           |
+| Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
+|                  |   |           |           |           |
+|                  |   |           |           |           |
+|                  |   |           |           |           |
+|                  |   |           |           |           |
+|                  |   |           |           |           |
+|                  |   |           |           |           |
+| Github/dok.      |   |           |           |           |
