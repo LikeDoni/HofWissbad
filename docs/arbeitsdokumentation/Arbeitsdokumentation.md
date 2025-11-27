@@ -2,22 +2,20 @@
 |------------------|---|-----------|-----------|-----------|
 |                  |   |           |           |           |
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
-| Einleitung       |   |     x     |     x     |           |
+| Einleitung       |   |     x     |     x     |     x     |
 | Ist/Soll-Tabelle |   |     x     |     x     |     x     |
 | Organigramm      |   |           |           |     x     |
-| Rollenaufteilung |   |     x     |           |     x     |
+| Rollenaufteilung |   |     x     |     x     |     x     |
 | Matrix           |   |     x     |           |           |
 | Sonnenmodel      |   |           |     x     |           |
-| Github/dok.      |   |           |     x     |     x     |
+| Github/dok.      |   |     x     |     x     |     x     |
 ---
 | KW 48            |   | Armend    | Nicola    | Donat     |
 |------------------|---|-----------|-----------|-----------|
 |                  |   |           |           |           |
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
-|                  |   |           |           |           |
-|                  |   |           |           |           |
-|                  |   |           |           |           |
-|                  |   |           |           |           |
-|                  |   |           |           |           |
-|                  |   |           |           |           |
-| Github/dok.      |   |           |           |           |
+| SWOT Analyse     |   |           |           |           |
+| SMART Analyse    |   |           |           |           |
+| Risiko Analyse   |   |           |           |           |
+| Projektauftrag   |   |           |           |           |
+| Github/dok.      |   |     x     |     x     |     x     |
