@@ -9,10 +9,10 @@
 
 **Projekt Hof Wissbad**
 > - [Einleitung](docs/projekt-einleitung/einleitung.pdf)
-> - [Ist/Soll-Tabelle](docs/projekt-organisation/istsolltable.md)
+> - [Ist/Soll-Tabelle](docs/projekt-einleitung/istsolltable.md)
 
 **Projektorganisation**
-> - [Rollenaufteilung](docs/projekt-einleitung/rollenaufteilung.drawio.svg)
+> - [Rollenaufteilung](docs/projekt-organisation/rollenaufteilung.drawio.svg)
 > - [Organigramm](docs/projekt-organisation/organigramm.drawio.svg)
 
 
