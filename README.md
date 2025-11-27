@@ -24,6 +24,9 @@
 **Projektanalyse**
 > - [SWOT](docs/projektanalyse/SWOT.md)
 
+**Risikoanalyse**
+> - [auswertung](docs/auswertung_risikoanalyse/risikoanalyse.md)
+
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
 > - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) 
