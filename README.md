@@ -25,7 +25,7 @@
 > - [SWOT](docs/projektanalyse/SWOT.md)
 
 **Risikoanalyse**
-> - [auswertung](docs/auswertung_risikoanalyse/risikoanalyse.md)
+> - [Auswertung](docs/auswertung_risikoanalyse/risikoanalyse.md)
 
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
