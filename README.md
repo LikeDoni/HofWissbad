@@ -1,4 +1,4 @@
-# Projektdokumentaion Hof Wissbad
+# Projektdokumentaion Hof Wissbad 
 > **Authoren:**
 >> Armend, Nicola, Donat
 
@@ -7,7 +7,7 @@
 
 ## **Navigation**
 
-**Projekt Hof Wissbad**
+**Projekt Hof Wissbad**(-27.11.2025)
 > - [Einleitung](docs/projekt-einleitung/einleitung.md)
 > - [Ist/Soll-Tabelle](docs/projekt-einleitung/istsolltable.md)
 
@@ -16,18 +16,18 @@
 > - [Organigramm](docs/projekt-organisation/organigramm.drawio.svg)
 
 
-**Stakeholderanalyse**
+**Stakeholderanalyse**(-27.11.2025)
 > - [Matrix](docs/stakeholderanalyse/StakeholderMatrix.md)
 > - [Begründung](docs/stakeholderanalyse/Stakeholder_begründung.md)
 > - [Sonnenmodel](docs/stakeholderanalyse/sonnenmodel.drawio.svg)
 
-**Projektanalyse**
+**Projektanalyse**(-04.12.2025)
 > - [SWOT](docs/projektanalyse/SWOT.md)
 
-**Risikoanalyse**
+**Risikoanalyse**(-04.12.2025)
 > - [Auswertung](docs/auswertung_risikoanalyse/risikoanalyse.md)
 
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
-> - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) 
-> - [Milestone KW48](https://github.com/LikeDoni/HofWissbad/milestone/2)
+> - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) (-27.11.2025)
+> - [Milestone KW48](https://github.com/LikeDoni/HofWissbad/milestone/2) (-04.12.2025)
