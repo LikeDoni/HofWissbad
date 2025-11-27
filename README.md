@@ -8,7 +8,7 @@
 ## **Navigation**
 
 **Projekt Hof Wissbad**
-> - [Einleitung](docs/projekt-einleitung/einleitung.pdf)
+> - [Einleitung](docs/projekt-einleitung/einleitung.md)
 > - [Ist/Soll-Tabelle](docs/projekt-einleitung/istsolltable.md)
 
 **Projektorganisation**
