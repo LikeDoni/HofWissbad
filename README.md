@@ -21,6 +21,9 @@
 > - [Begründung](docs/stakeholderanalyse/Stakeholder_begründung.md)
 > - [Sonnenmodel](docs/stakeholderanalyse/sonnenmodel.drawio.svg)
 
+**Projektanalyse**
+> - [SWOT](docs/projektanalyse/SWOT.md)
+
 **Arbeitsdokumentation**
 > - [Arbeitstabelle](docs/arbeitsdokumentation/Arbeitsdokumentation.md)
 > - [Milestone KW47](https://github.com/LikeDoni/HofWissbad/milestone/1) 
