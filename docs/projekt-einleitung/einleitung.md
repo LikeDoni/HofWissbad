@@ -21,7 +21,8 @@ Funktion: Inhalte aus Hotellerie, Restaurant, Wellness, Marketing sowie externen
 Das neue Informationssystem soll in allen Hotelzimmern, Aufenthaltsräumen, Wellnessbereichen und am Empfang digitale Infodisplays bereitstellen. Gästen werden dort tagesaktuelle Informationen wie Wetterdaten, Restaurantangebote, Behandlungsangebote, Events, Tourismusinformationen und personalisierte Empfehlungen angezeigt. Zusätzlich soll ein interaktives System in den Gästezimmern ermöglichen, Informationen abzurufen und direkt Leistungen wie Massagen oder Wellnessangebote zu buchen.
 
 **Umsetztung**
-Für die Umsetzung wird ein interdisziplinäres Projektteam aus der IT, dem Gesundheitszentrum, der Hotellerie, dem Restaurant und dem Marketing gebildet. Das Projekt wird gemäss den Richtlinien der Digitalisierungsstrategie des Hotels und der IT-Abteilung geplant und umgesetzt. Ziel ist es, sowohl die Gästezufriedenheit zu erhöhen als auch interne Prozesse und Datenflüsse zu optimieren
+>Für die Umsetzung wird ein interdisziplinäres Projektteam aus der IT, dem Gesundheitszentrum, der Hotellerie, dem Restaurant und dem Marketing gebildet. Das Projekt wird gemäss den Richtlinien der Digitalisierungsstrategie des Hotels und der IT-Abteilung geplant und umgesetzt. Ziel ist es, sowohl die Gästezufriedenheit zu erhöhen als auch interne Prozesse und Datenflüsse zu optimieren
+
 
 
 
