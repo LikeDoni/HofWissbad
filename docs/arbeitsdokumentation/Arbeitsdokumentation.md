@@ -16,6 +16,6 @@
 | Aufgabe          |   | Beteiligt | Beteiligt | Beteiligt |
 | SWOT Analyse     |   |           |     x     |           |
 | SMART Analyse    |   |           |           |           |
-| Risiko Analyse   |   |           |           |           |
+| Risiko Analyse   |   |           |     x     |           |
 | Projektauftrag   |   |           |           |           |
 | Github/dok.      |   |     x     |     x     |     x     |
