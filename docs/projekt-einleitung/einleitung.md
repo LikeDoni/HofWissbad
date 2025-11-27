@@ -10,10 +10,11 @@ Daten wie Wetter, Auslastung, Stromproduktion und News werden automatisiert inte
 Die Digitalisierung soll Mitarbeitende entlasten, indem Routinekommunikation digital übernommen wird.
 Das Informationssystem wird ein zentrales Element des Hotelservices und stärkt das Gesamtimage des Hof Wissbad als modernes Gesundheits- und Wellnesshotel.
 
-Die 2 Zentralen Teile des Projekts:
-Die technische Infrastruktur (Displays, Netzwerk, Plattform, Gateways)
+**Die 2 Zentralen Teile des Projekts**
+>Die technische Infrastruktur (Displays, Netzwerk, Plattform, Gateways)
 Die Entwicklung einer massgeschneiderten APP:
 Funktion: Inhalte aus Hotellerie, Restaurant, Wellness, Marketing sowie externen Datenquellen (Wetterstation, PV-Anlage, Newsfeeds) zusammenführen.
 Das neue Informationssystem soll in allen Hotelzimmern, Aufenthaltsräumen, Wellnessbereichen und am Empfang digitale Infodisplays bereitstellen. Gästen werden dort tagesaktuelle Informationen wie Wetterdaten, Restaurantangebote, Behandlungsangebote, Events, Tourismusinformationen und personalisierte Empfehlungen angezeigt. Zusätzlich soll ein interaktives System in den Gästezimmern ermöglichen, Informationen abzurufen und direkt Leistungen wie Massagen oder Wellnessangebote zu buchen.
 
 Für die Umsetzung wird ein interdisziplinäres Projektteam aus der IT, dem Gesundheitszentrum, der Hotellerie, dem Restaurant und dem Marketing gebildet. Das Projekt wird gemäss den Richtlinien der Digitalisierungsstrategie des Hotels und der IT-Abteilung geplant und umgesetzt. Ziel ist es, sowohl die Gästezufriedenheit zu erhöhen als auch interne Prozesse und Datenflüsse zu optimieren
+
